@@ -101,4 +101,5 @@ In conclusion, I tested the code by asking the user for a number and then asking
 
 ![outcom_code](./images/outcome_code.jpg)
 
+This conclude the project work, and thanks.
 
